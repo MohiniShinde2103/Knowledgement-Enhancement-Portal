@@ -1,16 +1,6 @@
 # Knowledge-Enhancement-Portal
-This project was developed for administrative purpose of Government Polytechnic, Karad. The project is being divided into three main modules as Student Management, Library Management and Exam Seating Arrangement. 
-<br/>
-<b>Front-end : HTML, CSS, JavaScript</b> 
-<b>Back-end processing : JSP</b><br> 
-<br>Back-end (Database) : MySQL
 
-
-# Knowledge Enhancement Portal
-
-
-
-
+This project was developed in sponsorship with Government Polytechnic, Karad for administrative purpose. 
 
 ## Motivation 💪
 
@@ -34,3 +24,5 @@ As part of project our mentor faculty explained the need of such project in our 
 ### Database
 <code><img height="30" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code>
 
+## Demo
+[<img src="https://i.ytimg.com/vi/Ggx-VTuSx8E/maxresdefault.jpg" width="50%">](https://youtu.be/Ggx-VTuSx8E)
