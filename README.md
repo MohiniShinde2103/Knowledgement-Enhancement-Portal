@@ -8,6 +8,15 @@ Educational Institutes across the India require lot of paperwork to be submitted
 
 As part of project our mentor faculty explained the need of such project in our institute Government Polytechnic, Karad. There was some existing system but which was not working properly. It tried to automate the process but admin had to enter the details of students in the system manually only. Seat allocation also had lot of issues.
 
+## Work
+<ol>
+<li>As part of requirements analysis we analysed the entire system and its requirements.</li>
+  <li>Then we moved to UML diagrams which were developed as part of design phase which are present in the next section</li>. 
+  <li>We then moved to implementation. We used web technologies for development of the project as our requirement was to build a system which will be accessible to everyone </li>
+  <li>After completion of project the project was handed to Government Polytechnic, Karad for their use.</li>
+</ol>
+
+## Features
 
 ## Built With 🛠️
 
