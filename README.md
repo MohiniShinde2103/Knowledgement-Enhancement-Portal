@@ -42,6 +42,7 @@ As part of project our mentor faculty explained the need of such project in our 
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/28/28968.png"></code>
+<code><img height="30" src="https://avaldes.com/wp-content/uploads/2014/11/Java.png"></code>
 
 ### Database
 <code><img height="30" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code>
