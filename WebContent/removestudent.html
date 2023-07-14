@@ -1,0 +1,192 @@
+<html>
+<style>
+body
+{
+background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(logback.jpg);
+
+background-repeat: no-repeat;
+background-size: 102% 1500px;
+
+}
+.heading {
+	      text-align: center;
+	      text-decoration: none;
+	      font-size: 45px;
+	      style-height:100px;
+	      height:65px;
+	      width:100%;
+	}
+.nav{
+width:100%;
+background-color:#333;
+height:60px;
+}
+ul{
+list-style:none;
+padding:0;
+margin:0;
+position:absolute;
+}
+ul li{
+float:left;
+margin-top:10px;
+}
+ul li a{
+width:150px;
+color:white;
+display:block;
+text-decoration:none;
+font-size:20px;
+text-align:center;
+padding:8px;
+border-radius:10px;
+font-family:Century Gothic;
+font-weight:bold;
+}
+a:hover{
+background:#669900;
+}
+ul li ul{
+background:#333;
+}
+ul li ul li{
+float:none;
+}
+ul li ul{
+display:none;
+}
+ul li:hover ul{
+display:block;
+}
+#but1
+{
+color: white;
+font-size: 23px;
+}
+#but
+{
+color: white;
+font-size: 17px;
+}
+.simple-form
+{
+text-align:center;
+margin:10px 200px;
+}
+#registration
+{
+width: 100%;
+background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(logback1.jpg);
+background-repeat: no-repeat;
+background-size: 102% 1000px;
+
+opacity: 0.8;
+padding:50px 0px;
+}
+#footer
+{
+margin-top:-5%;
+margin-left:-1%;
+margin-right:-1%;
+margin-bottom:-2%;
+background: #f00;
+text-align: center;
+color: #fff;
+padding: 12px;
+}
+#butt
+{
+width: 200px;
+padding: 10px;
+border-radius: 5px;
+outline: 0px;
+background-color:#b53;
+border: #01010c;
+color: aliceblue;
+font-size: 18px;
+}
+#button
+{
+padding:10px;
+border-radius: 5px;
+width: 290px;
+outline: 0px;
+}
+#button1
+{
+padding:10px;
+border-radius: 4px;
+width: 100px;
+outline: 0px;
+}
+
+.column{
+float:left;
+width:50%;
+}
+
+
+.row:after{
+content:" ";
+display:table;
+clear:both;
+}
+.title h1{
+color: #b53;
+font-size: 40px;
+font-family:Century Gothic;
+}
+</style>
+<head><title>REMOVE PROFILE</title>
+</head>
+<link rel="stylesheet" type="text/css" href="style1.css">
+<body>
+<div class="heading">
+<font color="#ffffff">Remove Student</font>
+</div>
+<div class="nav">
+    <ul>
+          <li>  <a  href="studentprofile.html">Home |</a> </li>
+      <li> <a href="createstudent.html">Create Profile |</a>
+</li>
+<li><a href="#">Delete Profile |</a></li>
+       <li><a href="viewstudent.html">View Profile |</a></li>
+      <li><a  href="updatestudent.html">Update Profile|</a></li>
+      <li><a href="adminmain.html">Back |</a></li>
+</ul>
+
+</div>
+<br>
+<div class="simple-form">
+<br/><br/><br/><br/>
+<form action="removestudent.jsp" method="post" name="contact">
+<fieldset id="registration">
+<div class="row">
+<div class="column">
+   	<div class="title"><br/><br/><br/><br/>
+<h1>Delete Profile</h1>
+</div>
+
+	<input type="text" name="enroll" id="button" placeholder="Enter Student Enrollment No." required><br/><br/>
+	<input type="text" name="roll" id="button" placeholder="Enter Student Roll No" required><br/><br/>
+	<input type="text" name="name" id="button" placeholder="Enter Student Name" required><br/><br/>
+	<input type="submit" value="Delete Profile" id="butt" >	
+                  
+</div>
+<div class="column"><br><br><br><br>
+	 <img src="a.png" width=70% height=80%>
+</div>
+</div>
+
+</fieldset><br/><br/><br/>
+</form>
+</div>
+<br/><br/><br/>
+<!---------footer------->
+<section id="footer">
+<div class="container text-center">
+<p><strong><h3>&copy 2020.</strong> Government Polytechnic, Karad.</h3></p>
+</div>
+</section>
+</body>
+</html>
