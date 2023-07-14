@@ -17,6 +17,18 @@ As part of project our mentor faculty explained the need of such project in our 
 </ol>
 
 ## Features
+<ul>
+  <li>Automated process for examination seating arrangement by 80%.</li>
+  <li>Used a feature which admin has just to upload the CSV file of students which they receive from University.</li>
+  <li>Based on the CSV upload the system prompts admin to select the date and time which is fetched from CSV.</li>
+  <li>After selection of date and time, the system will ask for classroom from the available classes. After selection of class students will be <b>allocated to respective classes along with bench positions as well</b>.</li>
+  <li>System will automatically generated the classroom wise student distribution which is displayed on main notice board.</li>
+  <li>System will generate bench-wise student allocation which is displayed outside the classroom</li>
+  <li>System will generate all the reports such as Attendance report, Packing slip(along with no. of answer sheets), Appendix 10 and many other reports in prescribed format by MSBTE(University).</li>
+  <li>System will allow admin to manage student attendance during exams.</li>
+  <li>Admin can assign special codes to students such as copycase.</li>
+  
+</ul>
 
 ## Built With 🛠️
 
